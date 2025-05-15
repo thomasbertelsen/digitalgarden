@@ -9,4 +9,11 @@ In order to learn how to use this system head over to [[02 Area, Zettelkasten, N
 Generally this user interface is supported by myself (Thomas Bertelsen), but you can easily join on invite if you are willing to pay 50 kr per month.
 
 
+If you are interested in seeing ongoing projects head over to [[01 Project management/index|Projects overview]]
+
+If you are interested in recommended reading or how to set up something head over to [[03 Resources/index|Resources Overview]]
+
+
+
+
 
