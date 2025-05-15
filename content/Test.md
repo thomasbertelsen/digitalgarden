@@ -12,3 +12,7 @@ My goal is to test if dataview works and tasks
 
 # tasks
 Heading
+
+
+go to [[tags/tasks]]
+
